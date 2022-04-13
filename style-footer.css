@@ -1,0 +1,49 @@
+body { background-image:url('CY0.gif'); background-repeat:repeat; }
+
+* {
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+.footer-container {
+    background-color: #3a3a3a;
+    padding-bottom: 4rem; 
+}
+
+.footer {
+    width: 80%;
+    height: 40vh;
+    background-color: rgb(105, 105, 105);
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    flex-wrap: warp;
+    margin: auto;
+}
+
+.footer-heading {
+    display: flex;
+    flex-direction: column;
+    margin-right: 4rem;
+}
+
+.footer-heading h2 {
+    margin-bottom: 2rem;
+}
+
+.footer-heading a {
+    color: #fff;
+    text-decoration: none;
+    margin-bottom: 0.5rem;
+    
+}
+
+.footer-heading a:hover {
+
+}
+
+.footer-heading p {
+    margin-bottom: ;
+}
