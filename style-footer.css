@@ -9,12 +9,13 @@ body { background-image:url('CY0.gif'); background-repeat:repeat; }
 
 .footer-container {
     background-color: #3a3a3a;
-    padding-bottom: 4rem; 
+    padding: 4rem 0 4rem 0; 
 }
 
 .footer {
     width: 80%;
     height: 40vh;
+    margin-top: 40rem;
     background-color: rgb(105, 105, 105);
     color: #fff;
     display: flex;
@@ -24,9 +25,7 @@ body { background-image:url('CY0.gif'); background-repeat:repeat; }
 }
 
 .footer-heading {
-    display: flex;
-    flex-direction: column;
-    margin-right: 4rem;
+    margin-right: 20rem;
 }
 
 .footer-heading h2 {
@@ -40,10 +39,6 @@ body { background-image:url('CY0.gif'); background-repeat:repeat; }
     
 }
 
-.footer-heading a:hover {
-
-}
-
-.footer-heading p {
-    margin-bottom: ;
+.text {
+    margin-right: 20rem;
 }
