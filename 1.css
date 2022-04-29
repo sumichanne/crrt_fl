@@ -1,0 +1,100 @@
+.a,
+.z,
+.t,
+.q,
+.i,
+.zxc {
+    color: grey;
+    font-size: 20px;
+    margin: auto;
+    position: absolute;
+    top: 5.5%;
+}
+
+.D {
+    text-align: center;
+}
+
+.a {
+    left: 10%
+}
+
+.s {
+    text-align: left;
+    width: 22%;
+    margin: auto;
+    position: absolute;
+    top: 10%;
+    left: 10%
+}
+
+.z {
+    margin: auto;
+    position: absolute;
+    left: 45%;
+}
+
+.r {
+    margin: auto;
+    position: absolute;
+    top: 10%;
+    left: 45%;
+    width: 22%;
+}
+
+.t {
+    margin: auto;
+    position: absolute;
+    left: 80%
+}
+
+.v {
+    width: 20%;
+    margin: auto;
+    position: absolute;
+    left: 80%;
+    top: 10%
+}
+
+.q {
+    top: 25%;
+    left: 10%
+}
+
+.b {
+    margin: auto;
+    position: absolute;
+    left: 10%;
+    top: 30%;
+    width: 23%;
+}
+
+.i {
+    margin: auto;
+    position: absolute;
+    top: 25%;
+    left: 45%;
+}
+
+.j {
+    width: 23%;
+    margin: auto;
+    position: absolute;
+    top: 30%;
+    left: 45%
+}
+
+.zxc {
+    margin: auto;
+    position: absolute;
+    top: 25%;
+    left: 80%;
+}
+
+.q1000-7 {
+    width: 23%;
+    margin: auto;
+    position: absolute;
+    left: 80%;
+    top: 30%
+}
