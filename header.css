@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    background: url(/img_header/photo_2022-04-19_20-13-40.jpg);
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.crrt-icon {
+    padding: 30px;
+}
+
+.crrt-text {
+    color: orange;
+    font-size: 30px;
+    margin-left: 290px;
+    margin-top: -180px;
+    padding: 20px;
+    font-weight: bold;
+}
