@@ -1,0 +1,122 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+   background: url(/img/fon3.jpg);
+   background-position: bottom;
+   background-size: cover;
+   background-repeat: no-repeat;
+   height: 100vh;
+
+}
+
+.crrt-img img{
+    width: 280px;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+
+.crrt-text{
+    margin-left: 330px;
+    margin-top: -120px;
+    font-size: 19px;
+    color: orange;
+    font-weight:bolder;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.crrt-text span {
+    color: rgb(6, 110, 179);
+}
+
+
+.navbar ul {
+    margin-top: -95px;
+    margin-left: 530px;
+    display: flex;
+    list-style-type: none;
+    border-width: 5px 0px;
+    border-color: rgb(255, 255, 255);
+    border-style: solid;
+    padding: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    width: 1300px;
+    
+}
+
+.navbar ul li a{
+    text-decoration: none;
+    color: aliceblue;
+    margin-left: 80px;
+    font-size: 35px;
+}
+
+
+.header-info {
+    color: aliceblue;
+    text-align: center;
+    margin-top: 250px;
+    margin-left: 20px;
+    font-size: 70px;
+    word-spacing: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header-info2{
+    color: aliceblue;
+    text-align: center;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ .img-facebook{
+    width: 200px;
+    height: 180px;
+    position: relative;
+    bottom:  60px;
+    right: 15px;
+}
+
+ .inst{
+   position: relative;
+   top:-260px;
+   right: 210px;
+   
+}
+footer{
+    background-color: rgb(204, 156, 156);
+    padding-bottom: 200px;
+}
+
+footer h1 {
+    
+    margin-left: 300px;
+    font-size: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.h1{
+    position: relative;
+    top: 70px;
+}
+
+footer .p1{
+    margin-left: 250px;
+    font-size: 30px;
+    margin-top: 100px;
+}
+
+
+footer .p2{
+    margin-left: 250px;
+    margin-top: 40px;
+    font-size: 30px;
+}
+
+.vidio{
+    margin-left: 900px;
+    margin-top: -400px;
+    width: 1000px;
+}
