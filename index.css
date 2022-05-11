@@ -87,7 +87,7 @@ header{
    
 }
 footer{
-    background-color: rgb(204, 156, 156);
+    background-color: #fff;
     padding-bottom: 200px;
 }
 
@@ -310,3 +310,55 @@ footer .p2{
     border-color: #000;
     margin-top: 100px;
 }
+
+ .bg-main{
+    background-color: #9b8f8f;
+    height: 594px;
+    margin-top: -200px;
+         
+    
+ }
+main{
+    
+    background-color: rgb(255, 255, 255);
+
+
+    
+    
+}
+
+ main h1{
+     position: relative;
+     top: 20px;
+     margin-left: 800px;
+     font-family: Arial, Helvetica, sans-serif;
+     font-size: 55px;
+     color: aliceblue;
+     font-weight: bolder;
+ }
+
+main img{
+    position: relative;
+      margin-top: 80px;
+     margin-left: 150px;   
+    border-radius: 100%;
+    top: 20px;
+ }
+
+ .main-line {
+     border-color: rgb(0, 0, 0);
+     margin-top: 80px;
+ }
+
+ .inf{
+     padding-bottom: 50px;
+ }
+ main iframe{
+     margin-left:15px;
+     margin-top: 50px;
+     width: 1880px;
+     height: 750px;
+     background-color: rgb(255, 255, 255);
+     
+ }
+       
